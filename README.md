@@ -1,2 +1,2 @@
 # SOST20131-week4
-STarter Files
+My repo for the SOSS GitHub and R workshops.
